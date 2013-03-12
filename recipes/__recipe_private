@@ -1,0 +1,7 @@
+desc: __description
+policy: {"read": ["__owner"], "create": [], "manage": ["__owner"], "accept": [], "write": [], "owner": "__owner", "delete": []}
+
+/bags/__system/tiddlers
+/bags/__bag_public/tiddlers
+/bags/__bag_protected/tiddlers
+/bags/__bag_private/tiddlers

@@ -1,0 +1,1 @@
+{"read": ["__owner"], "create": ["__owner"], "manage": ["__owner"], "accept": [], "write": ["__owner"], "owner": "__owner", "delete": ["__owner"]}

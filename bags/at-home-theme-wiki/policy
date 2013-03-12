@@ -1,1 +1,1 @@
-{"read": [], "create": [], "manage": ["pm"], "accept": [], "write": [], "owner": "pm", "delete": []}
+{"read": [], "create": ["pmario"], "manage": ["pmario"], "accept": [], "write": ["pmario"], "owner": "pmario", "delete": ["pmario"]}
